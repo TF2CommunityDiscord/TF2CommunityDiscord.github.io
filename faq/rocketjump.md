@@ -1,6 +1,6 @@
 ---
 title: FAQ: How to Rocket Jump?
-exerpt: Is this thing on?
+description: Is this thing on?
 ---
 
 Here's a video or two.
