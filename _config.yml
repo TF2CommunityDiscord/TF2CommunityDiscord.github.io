@@ -1,3 +1,4 @@
 name: Team Fortress 2 Community Wiki
 description: hi
+theme: lanyon
 remote_theme: poole/lanyon
