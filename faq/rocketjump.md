@@ -1,6 +1,7 @@
 ---
 title: FAQ: How to Rocket Jump?
 excerpt: Is this thing on?
+image: assets/images/rocketjump.jpg
 ---
 
 Here's a video or two.
