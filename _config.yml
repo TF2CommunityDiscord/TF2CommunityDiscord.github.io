@@ -1,4 +1,6 @@
-title: Team Fortress 2 Community Wiki
+title: Team Fortress 2 Community Discord Wiki
+tagline: TF2 Community Discord's community-created wiki!
+url: "https://wiki.tf2.community/"
 logo: /assets/icons/logo.svg
 remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 copyright: "© Team Fortress 2 Community - licensed under [MIT](https://github.com/TF2CommunityDiscord/TF2CommunityDiscord.github.io/blob/main/LICENSE)"
@@ -6,3 +8,6 @@ copyright: "© Team Fortress 2 Community - licensed under [MIT](https://github.c
 sass:
   load_paths:
     - assets/stylesheets
+
+plugins:
+  - jekyll-seo-tag
