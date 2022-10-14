@@ -2,10 +2,11 @@
 ---
 
 @import "basically-basic/variables";
+@import "basically-basic/global";
 
 .site-logo {
   width: $site-image-width;
   height: $site-image-height;
   margin-right: 0.5rem;
-  border-radius: 0% !important;
+  border-radius: 0%;
 }
