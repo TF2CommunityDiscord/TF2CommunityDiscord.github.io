@@ -5,4 +5,4 @@ remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 
 sass:
   load_paths:
-    - css
+    - assets/stylesheets
