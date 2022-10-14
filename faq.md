@@ -33,31 +33,31 @@ This server is very large, and generally very large servers tend to be very larg
 
 ### [Class guides](#class-guides)
 
-#### [Scout](#scout)
+#### Scout
 Scout!
 
-#### [Soldier](#soldier)
+#### Soldier
 Soldier!
 
-#### [Pyro](#pyro)
+#### Pyro
 Pyro!
 
-#### [Demoman](#demoman)
+#### Demoman
 Demoman!
 
-#### [Heavy](#heavy)
+#### Heavy
 Heavy!
 
-#### [Engineer](#engineer)
+#### Engineer
 Engineer!
 
-#### [Medic](#medic)
+#### Medic
 Medic!
 
-#### [Sniper](#sniper)
+#### Sniper
 Sniper!
 
-#### [Spy](#spy)
+#### Spy
 Spy!
 
 ### [Advanced Mechanics](#advanced-mechanics)
