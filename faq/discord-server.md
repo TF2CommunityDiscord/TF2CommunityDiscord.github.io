@@ -6,8 +6,8 @@ nav_order: 1
 ---
 # Getting Around & Using the Discord Server
 {: .no_toc }
-This section is designed for newcomers to TF2C to help answer the *“why”s* and *“how”s* that may come up as they find their way around.
-{: .fs-5 .fw-300 }
+This section is designed for newcomers to TF2C to help answer the *“why?”s* and *“how?”s* that may come up as they find their way around.
+{: .fs- .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -6,6 +6,8 @@ nav_order: 4
 ---
 # Advanced Mechanics
 {: .no_toc }
+This section is for the aspiring player who has mastered the basics and is looking to branch out into more technical sides of TF2.
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
