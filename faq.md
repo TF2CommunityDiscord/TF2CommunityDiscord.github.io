@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Frequently Asked Questions
+description: "Frequently Asked Questions"
 ---
 If you're here, you might have been sent from within the Discord server.
 
@@ -41,7 +41,7 @@ To open the in-game console, press the `~` (tilde) key on your keyboard at any t
 
 If the console does not immediately open, you may have to first enable it. There are two ways to do this:
 1. Launch the game with the [`-console` option](#launch-options).
-2. In TF2, open Settings, and go to the **Keyboard** -> **Advanced** section, and check `Enable developer console`.
+2. In TF2, open Settings, and go to the **Keyboard → Advanced** section, and check `Enable developer console`.
 
 ![Enabling developer console in-game](assets/images/enable_console.png)
 
