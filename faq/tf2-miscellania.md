@@ -43,3 +43,5 @@ Some useful launch options:
 - `-windowed`: Forces the game to run in a window instead of fullscreen.
 - `-fullscreen`: Forces the game to run in fullscreen instead of a window.
 - `-noborder`: When used with `-windowed`, removes the title border on the game window. This can be used to run the game in "borderless fullscreen" with the correct resolution.
+
+<small>An exhaustive list of console commands can be found [here](https://developer.valvesoftware.com/wiki/Command_Line_Options#Source_Games), with a bit of extra info on the [official wiki](https://wiki.teamfortress.com/wiki/Scripting#Launch_Options).</small>
