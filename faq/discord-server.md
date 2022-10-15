@@ -3,6 +3,7 @@ layout: default
 title: Getting Around & Using the Discord Server
 parent: FAQ
 nav_order: 1
+permalink: /faq/discord-server
 ---
 # Getting Around & Using the Discord Server
 {: .no_toc }

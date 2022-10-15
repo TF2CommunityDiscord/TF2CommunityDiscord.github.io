@@ -3,6 +3,7 @@ layout: default
 title: TF2 Miscellania
 parent: FAQ
 nav_order: 2
+permalink: faq/tf2-basics
 ---
 # TF2 Miscellania
 {: .no_toc }

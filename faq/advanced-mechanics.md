@@ -3,6 +3,7 @@ layout: default
 title: Advanced Mechanics
 parent: FAQ
 nav_order: 4
+permalink: faq/advanced-mechanics
 ---
 # Advanced Mechanics
 {: .no_toc }

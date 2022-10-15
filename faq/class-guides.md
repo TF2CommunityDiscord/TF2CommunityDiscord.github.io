@@ -3,6 +3,7 @@ layout: default
 title: Class Guides
 parent: FAQ
 nav_order: 3
+permalink: faq/class-guides
 ---
 # Class Guides
 {: .no_toc }
