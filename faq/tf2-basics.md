@@ -4,7 +4,7 @@ title: TF2 Basics
 parent: FAQ
 nav_order: 2
 ---
-# TF2 basics
+# TF2 Basics
 {: .no_toc }
 
 ## Table of contents

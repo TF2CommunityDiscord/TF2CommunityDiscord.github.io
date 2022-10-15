@@ -4,7 +4,7 @@ title: Class Guides
 parent: FAQ
 nav_order: 3
 ---
-# Class guides
+# Class Guides
 {: .no_toc }
 
 ## Table of contents
