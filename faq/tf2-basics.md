@@ -3,7 +3,7 @@ layout: default
 title: TF2 Miscellania
 parent: FAQ
 nav_order: 2
-permalink: faq/tf2-basics
+permalink: /faq/tf2-miscellania
 ---
 # TF2 Miscellania
 {: .no_toc }
@@ -25,7 +25,7 @@ If the console does not immediately open, you may have to first enable it. There
 1. Launch the game with the [`-console` option](#launch-options).
 2. In TF2, open Settings, and go to the **Keyboard → Advanced** section, and check `Enable developer console`.
 
-![Enabling developer console in-game](assets/images/enable_console.png)
+![Enabling developer console in-game](../assets/images/enable_console.png)
 
 ## Launch options
 <small>*“How do I set launch options?”*</small>
