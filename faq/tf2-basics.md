@@ -1,11 +1,13 @@
 ---
 layout: default
-title: TF2 Basics
+title: TF2 Miscellania
 parent: FAQ
 nav_order: 2
 ---
-# TF2 Basics
+# TF2 Miscellania
 {: .no_toc }
+This section is intended to help answer common questions regarding customizing, playing, and common issues you may encounter in TF2.
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -14,6 +16,8 @@ nav_order: 2
 {:toc}
 
 ## Console
+<small>*“How do I open my console?”*</small>
+
 To open the in-game console, press the `~` (tilde) key on your keyboard at any time while in-game. Its location may vary depending on the keyboard, but for the vast majority of keyboards, it is directly to the left of the number `1` key.
 
 If the console does not immediately open, you may have to first enable it. There are two ways to do this:
@@ -23,6 +27,8 @@ If the console does not immediately open, you may have to first enable it. There
 ![Enabling developer console in-game](assets/images/enable_console.png)
 
 ## Launch options
+<small>*“How do I set launch options?”*</small>
+
 If you need (or want) to specify special launch options for TF2 that apply when the game opens, follow these simple steps:
 1. Go to your Steam Library.
 2. Right-click on "Team Fortress 2".

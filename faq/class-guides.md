@@ -6,6 +6,8 @@ nav_order: 3
 ---
 # Class Guides
 {: .no_toc }
+This section aims to provide advice and guidance for learning and mastering your favorite class(es) in TF2.
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -6,15 +6,14 @@ nav_order: 1
 ---
 # Getting Around & Using the Discord Server
 {: .no_toc }
+This section is designed for newcomers to TF2C to help answer the *“why”s* and *“how”s* that may come up as they find their way around.
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-Being in a big server can be confusing at times, and with hundreds or thousands of members active around the clock, you can feel lost or confused, 
-or not understand *“How?”* some things work or *“Why?”* some things are the way they are. This section aims to guide you through basic server functions and etiquette!
 
 ## Verification
 *(Never seen the #verification channel? Feel free to skip this section.)*
