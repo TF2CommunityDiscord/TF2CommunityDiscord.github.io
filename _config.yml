@@ -3,7 +3,7 @@ description: "The TF2 Community Discord's community-created wiki!"
 url: "https://wiki.tf2.community/"
 logo: /assets/icons/logo.svg
 remote_theme: just-the-docs/just-the-docs
-footer_content: "© Team Fortress 2 Community - licensed under [MIT](https://github.com/TF2CommunityDiscord/TF2CommunityDiscord.github.io/blob/main/LICENSE)"
+footer_content: "&copy; Team Fortress 2 Community - licensed under <a href="https://github.com/TF2CommunityDiscord/TF2CommunityDiscord.github.io/blob/main/LICENSE">MIT</a>"
 
 nav_footer_custom: "test"
 
