@@ -5,6 +5,8 @@ logo: /assets/icons/logo.svg
 remote_theme: just-the-docs/just-the-docs
 footer_content: "© Team Fortress 2 Community - licensed under [MIT](https://github.com/TF2CommunityDiscord/TF2CommunityDiscord.github.io/blob/main/LICENSE)"
 
+nav_footer_custom: "test"
+
 aux_links:
   "Join the Discord server!":
     - "https://discord.gg/tf2"
