@@ -24,7 +24,7 @@ Some YouTube videos to help you get better at aiming:
 
 {% include youtube.html id="5Bxsp5Q6e4g" %}
 
---
+---
 
 {% include youtube.html id="svCmXhYxMGc" %}
 
