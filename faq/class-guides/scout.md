@@ -16,13 +16,15 @@ Below you will find a collection of various tips, tricks, guides and tutorials f
 <div class="code-example" markdown="1">
 Scout is very fast, you want to and you need to use his speed as much as possible.
 
-Being faster than everyone means you can pick your fights. This is crucial when playing Scout. If you feel like you're in a bad situation (for example, multiple people trying to attack you, or you have to fight a Pyro in his flamethrower range), just __RUN AWAY__.
+Being faster than everyone means you can pick your fights. This is crucial when playing Scout. If you feel like you're in a bad situation (for example, multiple people trying to attack you, or you have to fight a Pyro in his flamethrower range), just **RUN AWAY**.
 
 Scout is a killing machine in 1v1 situations but very weak against multiple players because his health pool is very low, you want to avoid 1v2s or 1v3s for example.
 
 Some YouTube videos to help you get better at aiming:
 
 {% include youtube.html id="5Bxsp5Q6e4g" %}
+
+--
 
 {% include youtube.html id="svCmXhYxMGc" %}
 
