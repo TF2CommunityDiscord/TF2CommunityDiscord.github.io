@@ -20,19 +20,20 @@ Below you will find a collection of various tips, tricks, guides and tutorials f
 - Find routes, bits of map geometry, places where people tend to gather in the maps you play and prey on them there.
 - Find techniques you can refine to use consistently and incorperate into your playstyle, trickstabs are an example but not the only thing you can do as Spy. 
 - Find ways for your gameplay to improve, note mistakes and find ways around them. 
-- There are so many ways to play spy, I personally play full stock with around a 60/40 knife to gun kills ratio. Others favor their knives for all of their kills, others prefer the Amby[^Amby] as a playstyle addition to add more damage at mid-close range. I used to exclusively use the Big Earner, L'Etranger, and C&D[^CD] as a stoplight playstyle where stopping and going is the name of the game. Between waiting for the right moment and chains of stabs where the speed boost drives your effective engagement range after stabs.
+- There are so many ways to play spy, I personally play full stock with around a 60/40 knife to gun kills ratio. Others favor their knives for all of their kills, others prefer the Amby[^Amby] as a playstyle addition to add more damage at mid-close range. I used to exclusively use the Big Earner, L'Etranger, and C&D as a stoplight playstyle where stopping and going is the name of the game. Between waiting for the right moment and chains of stabs where the speed boost drives your effective engagement range after stabs.
 - Find a way to play this canvas of a class that best suits your ever-evolving ever-improving and ever-growing playstyle.
 
 “There is one word that describes spy as a class well.\\
 And that word is potential.”
 
-[^DR]: Dead Ringer
-[^CD]: Cloak and Dagger
-[^YER]: Your Eternal Reward
-[^Amby]: Ambassador
 </div>
 ```
 Credit to @people_wrestling#6829
 ```
 
 ---
+
+[^DR]: Dead Ringer
+[^CD]: Cloak and Dagger
+[^YER]: Your Eternal Reward
+[^Amby]: Ambassador
