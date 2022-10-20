@@ -2,7 +2,7 @@
 layout: default
 title: TF2 Miscellania
 parent: FAQ
-nav_order: 2
+nav_order: 1
 permalink: /faq/tf2-miscellania/
 ---
 # TF2 Miscellania

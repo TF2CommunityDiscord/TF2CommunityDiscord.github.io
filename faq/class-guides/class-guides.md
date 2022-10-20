@@ -3,7 +3,7 @@ layout: default
 title: Class Guides
 parent: FAQ
 has_children: true
-nav_order: 3
+nav_order: 2
 permalink: /faq/class-guides/
 ---
 # Class Guides
