@@ -18,7 +18,9 @@ Below you will find a collection of various tips, tricks, guides and tutorials f
 Due to its incredible length and complexity and being updated somewhat often, you can access the full guide below:
 
 [https://rentry.co/tf2medguide](https://rentry.co/tf2medguide)
+</div>
 ```
 Credit to @Rahmed#1191
 ```
+
 ---
