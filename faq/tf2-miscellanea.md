@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TF2 Miscellania
+title: TF2 Miscellanea
 parent: FAQ
 nav_order: 1
-permalink: /faq/tf2-miscellania/
+permalink: /faq/tf2-miscellanea/
 ---
 # TF2 Miscellania
 {: .no_toc }
