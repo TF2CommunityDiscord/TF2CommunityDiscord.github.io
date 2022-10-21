@@ -5,7 +5,7 @@ parent: FAQ
 nav_order: 1
 permalink: /faq/tf2-miscellanea/
 ---
-# TF2 Miscellania
+# TF2 Miscellanea
 {: .no_toc }
 This section is intended to help answer common questions regarding customizing, playing, and common issues you may encounter in TF2.
 {: .fs-5 .fw-300 }
