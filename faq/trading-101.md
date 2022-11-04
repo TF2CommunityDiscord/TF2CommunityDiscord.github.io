@@ -37,7 +37,7 @@ These are the keys to actually get trades, even if you become one of the top tra
 
 1. [Backpack.tf](https://backpack.tf): The bread and butter of trading, basically a necessity, this is where you buy and sell items, check prices, etc... important to get familiar with it. [Here's a cool video guide that will explain how to use it](https://youtu.be/cSyRlC4-GlE)
 2. [Scrap.tf](https://scrap.tf): Automated trading website that covers most basic necessities in a fast and simple way, it also houses some important things, like auctions, raffles, automated weapons buying/selling, and more.
-3. [Marketplace.tf](https://marketplace.tf): As mentioned in "What to buy to begin trading" marketplace.tf is the place to go when you want to spend real money for tf2 items, it's trustable, it's reliable and it's cheap.
+3. [Marketplace.tf](https://marketplace.tf): As mentioned in [“What to buy to begin trading”](#learn-what-to-buy-to-begin-trading) marketplace.tf is the place to go when you want to spend real money for TF2 items, it's trustable, it's reliable and it's cheap.
 4. [Mannco.store](https://mannco.store): The website, not the in-game store is very similar to marketplace.tf, compare prices between the 2 to find what's cheaper.
 
 ## Low tier trading:
@@ -102,7 +102,7 @@ Cash trades are a thing in trading, but usually this only happen with higher tie
 
 You will get a lot of people like this too, what they will do is ask you to deposit your items in a random website and then they will switch to an alt account that is an impersonator of the web (As said before), these are also easy to identify and you shouldn't fall into these if you know your stuff.
 
-### "Accidental" reports
+### “Accidental” reports
 These are also simple and easy to see through, they will tell you that they have accidentally reported you to Steam for whatever reason and that you need to talk to an admin, these are of course impersonators that will ask you for your items for whatever stupid reason and run away with them.
 
 ### Festivized/Festive and Uncraftable/Craftable
