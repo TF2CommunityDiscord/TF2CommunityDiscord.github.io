@@ -14,48 +14,93 @@ Below you will find a collection of various tips, tricks, guides and tutorials f
 ---
 
 <div class="code-example" markdown="1">
-As Sniper, you want to always be as efficient as possible, and restrict the enemy team's movements.\\
-Flanking and tunnel-vision (and enemy Snipers) are your biggest enemy. You can easily get so focused on sniping someone you get headshot or flanked, or backstabbed.\\
-You generally want to quickscope, for tankier targets you can charge up, as most run/hide after the 1st or 2nd quickscope.\\
-After each quickscope, make sure to check your surroundings (especially your back), try to quickscope as many people as you can find on your flanks, it deals with them fast or scares them off. Also good for improvement.\\
+Sniper is a very punishing and time hungry class. 
 
-Your priorities are:
-1. Enemy Snipers - Enemy snipers are your absolute biggest enemy, as they can 1 shot you without overheal uncharged.\\
-You want to focus the enemy sniper as much as possible, and during the time the enemy sniper is dead, you want to be as aggressive as possible and get as many kills as you can until he respawns.\\
-Crosshair placement is key for sniper duels, you can prescope and place your crosshair on head level for an easier time, this'll usually eliminate second scopers.
-2. Medic - The Medic is obviously extremely high priority, but enemy Snipers are still the highest. Get as many chances on killing the Medic as you can.
-3. Powerclasses (Soldier, Demoman, Heavy) they are the main DPS of the team, you want to focus them after the Medic/Sniper.
-4. Everyone else
+Small introduction: I'm a competitive sniper player and have well over 1k hours on the class and well over 4k on the game itself. I've got lots of experience with the class and a lot of knowledge on it. A lot of people come to me for help.
 
-Not too much here, these are what you always just generally want to kill, just the ones above are what you want to especially kill.
-You are a glass cannon, do not underestimate how much enemies want you dead. Especially the Spy and enemy Sniper. If you do well as Sniper, you do very well, if you do bad, you do VERY bad.
+Your main job is frags. there's not much more to it. You can argue that it's also locking down sightlines but 99% of your job is just to get as many kills as possible and be as oppressive to the enemy as possible, do not let them disrespect your sightline.
 
-Learning map spots/Sniper spots is extremely valuable, along with getting used to listening for spies.
+When I say sniper is very punishing, I mean that it is very punishing to human mistakes. It is a very hit or miss class. Missing a single shot by even a tiny bit can have very bad consequences. Don't let it scare you though. This is how most classes in tf2 are. 
 
----
+When I say sniper is a very time hungry class, I mean it in the purest form there is. He needs a lot, and I mean **a LOT** of time and practice, especially aim-wise, it is very easy to get discouraged, but you have to power on.
 
-Sniper has a rough learning process. And I've seen quite a lot of people try to get good and then give up.
+FAQ:
 
-Let's put it down here:\\
-If you want to get good at Sniper, you have to be dedicated and patient. It takes a lot of practice, and there will be a lot of bad days, it's normal, don't give up.
+Q: how do i get "better" at sniper?\\
+A: you dont just get better at him, its a slow process that takes a lot of time and most importantly practice, and you likely wont notice the improvements, but they will be there. There's more to sniper than aim. Knowledge, gamesense and movement are all VERY important for sniper as you need these to keep yourself alive properly.
 
-Some things that you can get for your PC setup to help you:
-- 144+ Hz monitor (going from 60 Hz to 144 is a godsend, trust me)
-- PC that can run TF2 at a **stable** FPS (you want it to be as stable as possible, as unstable FPS can ruin your shots, yes configs are completely fine and I 100% recommend those)
-- Get a comfortable mousepad, mouse and keyboard. (I have a Logitech G502 Hero SE, it is a bit of a heavier mouse, so I'm going to get a mousepad with a little less cloth to move more freely, this stuff is actually very important, it's the bread and butter of sniping)
-- Make sure you're all around comfortable, you want to feel good sniping, not on edge.
+Q: i dont feel like im improving at all, help\\
+A: you are as long as you're playing the game, obviously specifics such as evaluating your own gameplay (not very effective for casual though) can help speed the process up, but as long as you're playing you're improving, it takes a lot of time as said many times.
 
-Other than that, make sure you **PRACTICE** a LOT. Force yourself to go for headshots, innovate gameplay based on what went wrong after a death. Learn from better players. Gamesense is also extremely important, aim alone isn't enough, quit playing with your ego.
+Q: im getting rolled by some 5k hour sniper or 8 different snipers from 30 angles\\
+A: happens, its important to not let your mental go in the bin over these things, having a good mental set on improvement is going to help you enormously, if you get too worked up over getting destroyed youre going to drive yourself insane, keep playing, you're getting better bit by bit, getting rolled is apart of the improvement process
 
-There will be bad days and good days, it is part of it all. Don't give up or feel down if you have a little bit of a bad day. 
+Q: what type of aiming is "better" and or what should i learn first?\\
+A: There's none that you should really learn first. The main types of "aiming" is tracking, flicking and waiting for players to walk onto your crosshair. All of these are good and should be learned equally. Generally however, tracking is the "best", as it's much more consistent than casino flicks, forces you to properly aim unlike waiting for them to walk onto your crosshair and shows the most skill. HOWEVER, all of 3 of these should be combined, as sometimes youre better off tracking, flicking or waiting for them to simply walk onto your crosshair. Any of these work, I would say get good at tracking most importantly, but it depends from player to player what type they like most.
 
-You need a good mindset for this. Set your mindset to improvement, there will be better players, but that's okay. Just because you missed some shots doesn't make you the worst player in the world, it won't bring you anywhere.
+Some topics:
 
-Also, please, when sniping, relax. Don't let your emotions control you.
+-Aiming:\\
+Aiming is very hard, I know. Theres no way to speed up the process of getting good aim, you just need to practice a lot and give it time (reoccuring pattern!), it will get better over time, aim trainers are decent, but playing the game itself is very good as well.
+Yes, it is normal for you to have days where you cant hit literally anything (happens to me as well) or just hit everything and wonder if you're actually cheating. Inconsistency is very normal and you shouldn't let it get to you.
+
+-Configs:\\
+Configs are actually quite important. It's a very good idea to have your config edited and set how you want it to be so you can feel comfortable playing the game. Every player has their own style. Some scripts like noexplosions (VERY USEFUL), nohatsmod, flat textures etc exist as well, they can help a decent bit.
+
+-Crosshairs:\\ 
+to add onto the configs section, for crosshairs, I would **not** recommend (you can still do it, just not optimal) using an open crosshair, such as an open cross. It affects flicking, you're going to tend to flick more to the edge of the crosshair, which will screw up your shots. Dot (crosshair5) and regular cross (ql_2) are very good.
+
+Some general knowledge that is good to know:\\
+-Priorities:\\
+Number 1: it's a tie between the enemy combo and enemy snipers, technically, it isn't your job to really kill the enemy sniper, but it is the spy's job (this is looking at it in a COMPETITIVE WAY), but generally enemy snipers are your number 1 biggest threat. Play it safe, get overhealed as much as you can, charging up your shots before peeking is extremely important as you can usually guarantee and instant kill this way rather than wide peeking the corner quickscoping the guy for -150 and then seeing him tank the shot and kill you instantly.\\
+Other than that you should focus down powerclasses most of the time, target priority is very situational and you should make your own judgement in the situations that you're in, if there's an engie with a gun rolling my team i'll focus him instead, if the heavy is trying to make space for his team and walk across the point i'll focus him instead.
+
+Look at the match hud.\\
+It is very underused. Playing off of the matchhud is very useful, for instance, if their snipers are dead you have a lot more space to play aggressively until they respawn. If the spy or flank is dead you can play like a rat and do very stupid angles.
+
+Don't be too aggressive.\\
+You are a glass cannnon, people want you DEAD. They will go to good lengths for it, you are very fragile, do not underestimate it, your life as a sniper is valuable. 
+
+Crosshair placement\\
+Crosshair placement is extremely important and is a huge portion of getting good at sniper, place your crosshair where you think their head is going to be or the person in general will be, it will make aiming much easier because they will either be already very close to your crosshair or simply walk into it making it very easy for you. Getting good at this does require gamesense and knowledge of sniper spots, so for a while it'll be very poor, but as you get map knowledge you'll get a better feel for it.
+
+Sensitivities\\
+Everyone has their own liking. Some like it fast, some slow, some in between. I use **1400 dpi, 1 sens in game and 0.793471413188092 zoom sensitivity ratio, on 1920x1080**. On native 1920x1080, this zoom sensitivity makes the sensitivity inside of the zoom the exact same as the one outside of the zoom, yes, zoom sensitivity ratio 1 on 1920x1080 actually makes it a good bit faster.\\
+It's important to work out a good sens dpi and zoom ratio combo.\\
+**You can change your crosshair, config, res, whatever, but never, NEVER, change your sensitivity, use one and stick to it.**\\
+Ive seen very weird sensitivities used by players, but they play with it for a lot of time, and they still get good with it. You just need to stick with it and not change it.
+
+
+Now, i'm going to be extremely honest, playing on things below 124/144hz is holding you back immensely, it is a godsend, especially for classes like sniper, if you have the option to go for a higher refresh rate monitor or are considering it, it is very useful.\\
+Of course this is very limited by money, but make sure your mouse, keyboard and mousepad are all comfortable for you to play with.
+
+
+I personally believe that it is bad for your progression as sniper to mainly let players walk onto your crosshair and not do the aiming yourself, you'll get kills, sure, but you wont get any better at aiming. Playing games like CS2 also helps. As long as you're using the same sensitivity of course. 
+
+There will be days where it feels like you cant hit anything, it's normal, there's a pretty hefty learning curve for sniper. Try to just keep grinding. Sometimes taking a break can help, don't burn yourself out. 
+
+
+There is no step by step learning to sniper, you play the game and get better slowly overtime. If you intend to get into competitive (highlander) sniper it is a whole different world compared to playing in pubs. Also, important to note, it is very easy for even a top tier sniper to get nuked by a considerably worse sniper due to the nature of the class, as sniper is also very dependent on his team. A considerably worse sniper can still very easily nuke a top tier team if he gets the space and protection for it. Hence it can happen that for some reason you just can't seem to win versus a seemingly worse sniper player.
+
+
+Some things to note while playing: Don't think too much about how you're playing or that you're garbage or any of those kinds of thoughts. It'll only distract you. Don't let your emotions control you, be calm, chill and focused and just frag out.\\
+CHARGING YOUR SHOTS IS VERY IMPORTANT, YOU WANT TO KILL THEM AS FAST AS YOU CAN.
+
+My recommended loadouts:\\
+Most primaries work, though the best ones generally are:\\
+Stock and reskins, machina and bazaar bargain (very good if you're rolling)\\
+For secondaries, a lot of them are good again. My recommended ones are:\\
+Darwins, cozy, smg, jarate. All of these work, I like to switch depending on what I feel is going to help me the most, such as darwins against pyros that are spamming me, cozy for general use and if I need the regen and anti-flinch, smg is great for protecting yourself.
+
+For melees, Shahanshah and Kukri/reskins work very well. Bushwacka is eh but can work with the jarate.
+
+
+There's likely things I forgot to put in here, you can dm me on discord, my name is "cosmetical"
+I can answer most of your questions, especially if you're attempting to play highlander sniper, as it's a whole different world.
 
 </div>
 ```
-Credit to @cosmetical#1321
+Credit to discord user @cosmetical 
 ```
 
 ---
